@@ -9,6 +9,9 @@ import (
 	"gopkg.in/mgo.v2/bson"
 
 	"github.com/gorilla/mux"
+	. "github.com/jlubbe777/Movie/config"
+	. "github.com/jlubbe777/Movie/dao"
+	. "github.com/jlubbe777/Movie/models"
 )
 
 var config = Config{}
