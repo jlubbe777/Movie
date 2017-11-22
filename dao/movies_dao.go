@@ -3,7 +3,7 @@ package dao
 import (
 	"log"
 
-	. "github.com/jlubbe77/movie/models"
+	. "github.com/jlubbe777/Movie/models"
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )
